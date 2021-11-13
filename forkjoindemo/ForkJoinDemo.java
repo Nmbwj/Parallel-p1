@@ -1,3 +1,4 @@
+package forkjoindemo;
 // A Simple example of the basic divide-and-conquer strategy.
 // In this case, RecursiveAction is used.
 import java.util.concurrent.*;
